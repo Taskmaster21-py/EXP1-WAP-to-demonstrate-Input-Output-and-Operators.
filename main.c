@@ -6,6 +6,11 @@ Welcome to GDB Online.
   Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
+/**name:Tathagat D Dethe
+Div:F 
+Branch:Mechanical
+Roll No: 30
+UIN NO:251M033**/
 #include <stdio.h>
 
 int main() {
